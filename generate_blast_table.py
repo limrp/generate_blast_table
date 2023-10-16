@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
 
+# *-----------------------------------------------------------------------------------------------
+# | PROGRAM NAME: generate_blast_table.py
+# | DATE: 26/08/22 
+# | CREATED BY: Lila Maciel Rodriguez Perez
+# | PROJECT FILE: https://github.com/limrp/generate_blast_table
+# *-----------------------------------------------------------------------------------------------
+
+# *-------------------------------------  Libraries ----------------------------------------------
 import re
 import argparse
 import logging
