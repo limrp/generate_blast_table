@@ -30,13 +30,13 @@ pip install biopython pandas alive-progress
 ### Basic Usage
 
 ```bash
-python generate_blast_table.py -i input.xml -o output.xlsx
+python3 generate_blast_table.py -i input.xml -o output.xlsx
 ```
 
 ### With All Options
 
 ```bash
-python generate_blast_table.py -i input.xml -o output.xlsx -o2 output.csv -p custom_protein_families.txt -e 1e-5 -a 100 -l my_log.txt
+python3 generate_blast_table.py -i input.xml -o output.xlsx -o2 output.csv -p custom_protein_families.txt -e 1e-5 -a 100 -l my_log.txt
 ```
 
 ### Arguments
